@@ -1,0 +1,7 @@
+so how it works:
+
+basically a frame that you draw on and with a keypress or with your ui you can get to the next frame, then after all the frames are done you can play it.
+
+create your own ui using raylib.
+
+
